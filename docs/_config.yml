@@ -1,11 +1,12 @@
 ### Site Settings ###
 title               : Cristian Guerrero
 description         : >-
-                      "Working in
-                      progress"
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : cristian-guerrero/cristian-guerrero.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+                      "I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production."
+baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+#repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+#remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
@@ -24,22 +25,22 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Cristian Guerrero
-  image             : https://firebasestorage.googleapis.com/v0/b/cristian-guerrero-cv.appspot.com/o/test1%2Fswagpix-8892c27748c8bd19bdd47911a27514df.jpg?alt=media&token=2ffcc74d-99b6-401a-b50c-f355ef7f1d53
-#  behance           : your_username
+  image             : https://bit.ly/2KCvgVJ
+  behance           : your_username
 # dribbble          : your_username
-  email             : guerrero.chavez.cristian@gmail.com.com
-#  facebook          : your_username
+  email             : username@domain.com
+  facebook          : your_username
   github            : your_username
 # gitlab            : your_username
 # instagram         : your_username
   linkedin          : your_username
-#  medium            : your_username
+  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-#  twitter           : your_username
+  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -65,7 +66,7 @@ defaults:
     values:
       layout: "page"
   #- scope:                                              # For Documentation Only
-  #    path: ""                                          # For Documentation Only
+  #   path: ""                                          # For Documentation Only
   #    type: "elements"                                  # For Documentation Only
   #  values:                                             # For Documentation Only
   #    layout: "element"                                 # For Documentation Only
